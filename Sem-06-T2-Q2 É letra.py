@@ -4,16 +4,3 @@ if 'A'<= c <='Z':
 else:
     print('False')
 
-
-
-
-
-
-
-
-
-
-
-
-
-

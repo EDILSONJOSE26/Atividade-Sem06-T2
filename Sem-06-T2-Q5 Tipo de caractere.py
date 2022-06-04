@@ -11,6 +11,3 @@ letra = input("").upper()
 letra = ten(letra)
 print("{0}".format(letra))
 
-
-
-
